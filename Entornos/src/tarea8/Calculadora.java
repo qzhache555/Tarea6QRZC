@@ -1,5 +1,9 @@
-package Tarea7;
-
+package tarea8;
+/**
+ * 
+ * @author Administrator
+ *
+ */
 public class Calculadora {
 	/**
 	 * 
